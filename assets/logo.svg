@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" role="img" aria-label="Off Watch Wellness">
+  <!-- mark -->
+  <g transform="translate(0,8)">
+    <circle cx="16" cy="16" r="9.6" fill="none" stroke="#2f7d6b" stroke-width="1.9"/>
+    <path d="M13.4 19.2a2.6 2.6 0 0 1 5.2 0z" fill="#2f7d6b"/>
+    <line x1="8.4" y1="19.2" x2="23.6" y2="19.2" stroke="#2f7d6b" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <!-- wordmark -->
+  <text x="40" y="31" font-family="Fraunces, Georgia, serif" font-size="21" font-weight="600" fill="#0e1b2a">
+    Off Watch<tspan font-weight="400" fill="#5b6b7b"> Wellness</tspan>
+  </text>
+</svg>
