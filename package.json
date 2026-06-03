@@ -1,0 +1,14 @@
+{
+  "name": "off-watch-wellness",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Landing page and waitlist for Off Watch Wellness — confidential counselling for Canada's police, RCMP, and first responders.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED"
+}

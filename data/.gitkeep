@@ -1,0 +1,2 @@
+# Waitlist signups are written to this directory as waitlist.json.
+# That file is gitignored because it contains personal data.

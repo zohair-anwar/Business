@@ -1,0 +1,17 @@
+# Waitlist signups — contains personal data, never commit
+data/waitlist.json
+data/*.json
+
+# Dependencies (only if you later add integrations)
+node_modules/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+.vercel
